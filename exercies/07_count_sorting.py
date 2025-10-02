@@ -1,3 +1,10 @@
+"""
+counting sort
+input: unsorted list of integers
+output: sorted list of integers
+"""
+
+
 from collections import defaultdict
 
 
